@@ -60,7 +60,7 @@ experiences:
       company: Indo Asian Academy Degree College, Bangalore, India
       details: |
         Worked as a Lecturer for two years in the Computer Science Department handling Operating Systems, DBMS, Advanced DBMS, Data Communication & Networks, Artificial Intelligence, Computer Networks and UNIX along with guiding students in their Project Work.
-        This experience enabled me to reinforce my knowledge as well as helped to improve leadership skills as well as improve me as a team player and a mentor.
+        This experience enabled me to reinforce my knowledge as well as helped to improve my leadership skills as well as improve me as a team player and a mentor.
     - role: Asst. Professor
       time: 2011 - 2012
       company: Co Operative Institute of Technology, Kerala, India
@@ -74,25 +74,17 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: EMI Calculator
+        link: "https://github.com/preethikishore/Emi_Calculator"
+        tagline: "Financial Calculator developed for Android with Java and Android Studio. This app provides a solution for financial calculations such as EMI, FD, RD, PPF and SIP."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: COVID 19 India
+        link: "https://github.com/preethikishore/Covid19India"
+        tagline: "COVID 19 India was developed for Android with Java, JSON and Android Studio. This app provides COVID 19 Statistics based on the users' location along with State, Country and Global Pandemic statistics based on JSON data from https://corona.lmao.ninja/ and https://api.covid19india.org/."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Roar & Fun - Animal Sounds & Puzzles
+        link: "https://github.com/preethikishore/roar_animal_dino_sounds"
+        tagline: "A learning & games app developed with Dart & Flutter for android. This app has animal sounds & names, memory games, sliding puzzles, a jigsaw and a Sleeping Panda Game." 
 
 publications:
     title: Publications
@@ -125,9 +117,15 @@ skills:
 
       - name: SQL
         level: 88%
+       
+      - name: Android
+        level: 70%
 
       - name: C Programming
         level: 68%
+              
+      - name: Dart
+        level: 55%
 
       - name: Kotlin
         level: 45%
