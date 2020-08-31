@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: preethi.p.gopakishore@gmail.com
-    phone: 012 345 6789
+    phone: +44 756 475 1276
     website: droidlytics.wordpress.com #do not add http://
     linkedin: preethipgopakishore
     github: preethikishore
@@ -42,73 +42,31 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Skilled Software Developer with dynamism and passion for Software development and eye for design as well as having a deep understanding of Computer Science having Masters in Computer Science and Engineering and more than two years’ experience as an educator. Good communicator and team player who is eager to learn, improve and contribute to the overall success of the team.
 education:
     - degree: M.Tech in Computer Science and Engineering
       university: University of Pondicherry, India
       time: 2013 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: M.Tech in Computer Science and Engineering
+        Completed Master of Technology with 8.9 GPA in Computer Science and Engineering
+    - degree: B.Tech in Computer Science and Engineering
       university: Cochin University of Science and Technology (CUSAT), India
       time: 2006 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Completed Master of Technology with First Class in Computer Science and Engineering
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Lecturer
+      time: 2017 - 2019
+      company: Indo Asian Academy Degree College, Bangalore, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Worked as a Lecturer for two years in the Computer Science Department handling Operating Systems, DBMS, Advanced DBMS, Data Communication & Networks, Artificial Intelligence, Computer Networks and UNIX along with guiding students in their Project Work.
+        This experience enabled me to reinforce my knowledge as well as helped to improve leadership skills as well as improve me as a team player and a mentor.
+    - role: Asst. Professor
+      time: 2011 - 2012
+      company: Co Operative Institute of Technology, Kerala, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        My first professional experience was as an Assistant Professor on Contract Basis. Subjects Handled include Operating Systems, DBMS, and C Programming.
+        My main take away from this position was the need for accountability and responsibility in every job as well as my first experience as a team player in a professional environment.
 projects:
     title: Projects
     intro: >
