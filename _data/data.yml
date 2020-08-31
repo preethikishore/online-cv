@@ -91,12 +91,12 @@ publications:
     papers:
       - title: Temporal Sentiment Analysis and Causal Rules Extraction from Tweets for Event Prediction
         link: "https://doi.org/10.1016/j.procs.2015.04.154"
-        authors: P .G.Preethi, Dr.V.Uma, Ajit Kumar
+        authors: P .G.Preethi, V.Uma, Ajit Kumar
         conference: "Elsevier Procedia Computer Science. (2015), pp. 84-89"
 
       - title: "Mining sentiments and sequential rules for event prediction"
         link: "https://www.thefreelibrary.com/Mining+sentiments+and+sequential+rules+for+event+prediction.-a0420324673"
-        authors: P .G.Preethi, Dr.V.Uma
+        authors: P .G.Preethi, V.Uma
         conference: "Advances in Natural and Applied Sciences (2015) pp. 549-554"
 
       - title: Analysis Of Tweet Sentiments And Causality Extraction For Prediction
