@@ -70,9 +70,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Details of Android projects that I have developed and/or published could be found below. Details of small projects developed for the Blog Posts could be found in the blog or the GitHub repository.
     assignments:
       - title: EMI Calculator
         link: "https://github.com/preethikishore/Emi_Calculator"
@@ -89,24 +87,22 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Details of all my research publications in journals and/or conference proceedings could be found below.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Temporal Sentiment Analysis and Causal Rules Extraction from Tweets for Event Prediction
+        link: "https://doi.org/10.1016/j.procs.2015.04.154"
+        authors: P .G.Preethi, Dr.V.Uma, Ajit Kumar
+        conference: "Elsevier Procedia Computer Science. (2015), pp. 84-89"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Mining sentiments and sequential rules for event prediction"
+        link: "https://www.thefreelibrary.com/Mining+sentiments+and+sequential+rules+for+event+prediction.-a0420324673"
+        authors: P .G.Preethi, Dr.V.Uma
+        conference: "Advances in Natural and Applied Sciences (2015) pp. 549-554"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Analysis Of Tweet Sentiments And Causality Extraction For Prediction
+        link: "https://ijcsit.org/7.pdf"
+        authors: P .G.Preethi, Sheethal Abraham, Dr.V.Uma
+        conference: "International Journal of Computing Science and Information Technology (2018) pp. 25-30"
 
 skills:
     title: Skills &amp; Proficiency
