@@ -95,12 +95,12 @@ projects:
       - title: ExotiCar
         link: "https://preethikishore.github.io/ExoticCar"
         tagline: "A sample Home page for a Sports Car Manufacturer designed to learn CSS & HTML."
-        
+ 
+projects:
     title: Android Projects
     intro: >
       Details of Android projects that I have developed and/or published could be found below. Details of small projects developed for the Blog Posts could be found in the blog or the GitHub repository.
     assignments: 
-
       - title: EMI Calculator
         link: "https://play.google.com/store/apps/details?id=com.allureinfosystems.emi_calculator"
         tagline: "Financial Calculator developed for Android with Java and Android Studio. This app provides a solution for financial calculations such as EMI, FD, RD, PPF and SIP."
