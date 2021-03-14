@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Preethi Prasanna Gopakishore
-    tagline: Android Developer
+    tagline: Web & Android Developer
     avatar: profilenew.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: preethi.p.gopakishore@gmail.com
-    phone: +44 756 475 1276
+    phone: +91 9986714400/9380964778
     website: droidlytics.wordpress.com #do not add http://
     linkedin: preethipgopakishore
     github: preethikishore
@@ -70,10 +70,34 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Details of Android projects that I have developed and/or published could be found below. Details of small projects developed for the Blog Posts could be found in the blog or the GitHub repository.
-    assignments:
-      - title: EMI Calculator
+      Details of Web & Android projects that I have developed and/or published could be found below. Details of small projects developed for the Blog Posts could be found in the blog or the GitHub repository.
+    assignments:    
+      - title: My Portfolio
         link: "https://github.com/preethikishore/Emi_Calculator"
+        tagline: "My Portfolio Website Project to showcase the work I have done as a Web and Android Developer. This was developed using HTML, CSS, Bootstrap & JavaScript."
+
+      - title: Clock Counter
+        link: "https://preethikishore.github.io/clockCounter"
+        tagline: "A sample site to show time left and a clock Developed using HTML, CSS & JavaScript."
+    
+      - title: Balloones
+        link: "https://preethikishore.github.io/Balloones"
+        tagline: "A Balloon Popping game developed using HTML, CSS, Java Script."
+
+      - title: Let’s Travel
+        link: "https://preethikishore.github.io/LetsTravel"
+        tagline: "A Travel Blog Design developed using HTML, CSS & Bootstrap. Development in progress to make it a complete travel blog with JavaScript & Mongo DB."
+
+      - title: TinDog
+        link: "https://preethikishore.github.io/tinDog"
+        tagline: "A Sample design for a Dog Dating site developed using HTML, CSS & Bootstrap."
+
+      - title: ExotiCar
+        link: "https://preethikishore.github.io/ExoticCar"
+        tagline: "A sample Home page for a Sports Car Manufacturer designed to learn CSS & HTML."
+
+      - title: EMI Calculator
+        link: "https://play.google.com/store/apps/details?id=com.allureinfosystems.emi_calculator"
         tagline: "Financial Calculator developed for Android with Java and Android Studio. This app provides a solution for financial calculations such as EMI, FD, RD, PPF and SIP."
 
       - title: COVID 19 India
@@ -81,7 +105,7 @@ projects:
         tagline: "COVID 19 India was developed for Android with Java, JSON and Android Studio. This app provides COVID 19 Statistics based on the users' location along with State, Country and Global Pandemic statistics based on JSON data from https://corona.lmao.ninja/ and https://api.covid19india.org/."
 
       - title: Roar & Fun - Animal Sounds & Puzzles
-        link: "https://github.com/preethikishore/roar_animal_dino_sounds"
+        link: "https://play.google.com/store/apps/details?id=com.preethikishore.roar_animal_dino_sounds"
         tagline: "A learning & games app developed with Dart & Flutter for android. This app has animal sounds & names, memory games, sliding puzzles, a jigsaw and a Sleeping Panda Game." 
 
 publications:
@@ -108,11 +132,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+    
+      - name: HTML
+        level: 95%
+    
+      - name: CSS
+        level: 90%
+        
       - name: Java
         level: 88%
 
       - name: SQL
         level: 88%
+        
+      - name: Bootstrap
+        level: 70%
        
       - name: Android
         level: 70%
@@ -122,9 +156,9 @@ skills:
               
       - name: Dart
         level: 55%
-
-      - name: Kotlin
-        level: 45%
+        
+      - name: JavaScript
+        level: 40%
 
 footer: >
     Preethi Prasanna Gopakishore
