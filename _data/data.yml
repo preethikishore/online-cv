@@ -68,9 +68,9 @@ experiences:
         My first professional experience was as an Assistant Professor on Contract Basis. Subjects Handled include Operating Systems, DBMS, and C Programming.
         My main take away from this position was the need for accountability and responsibility in every job as well as my first experience as a team player in a professional environment.
 projects:
-    title: Projects
+    title: Web Development Projects
     intro: >
-      Details of Web & Android projects that I have developed and/or published could be found below. Details of small projects developed for the Blog Posts could be found in the blog or the GitHub repository.
+      Details of Web Development projects that I have developed and/or published could be found below. 
     assignments:    
       - title: My Portfolio
         link: "https://github.com/preethikishore/Emi_Calculator"
@@ -95,6 +95,11 @@ projects:
       - title: ExotiCar
         link: "https://preethikishore.github.io/ExoticCar"
         tagline: "A sample Home page for a Sports Car Manufacturer designed to learn CSS & HTML."
+        
+    title: Android Projects
+    intro: >
+      Details of Android projects that I have developed and/or published could be found below. Details of small projects developed for the Blog Posts could be found in the blog or the GitHub repository.
+    assignments: 
 
       - title: EMI Calculator
         link: "https://play.google.com/store/apps/details?id=com.allureinfosystems.emi_calculator"
