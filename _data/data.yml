@@ -73,7 +73,7 @@ projects:
       Details of Web Development & Android projects that I have developed and/or published could be found below. Details of small projects developed for the Blog Posts could be found in the blog or the GitHub repository.
     assignments:    
       - title: My Portfolio
-        link: "https://github.com/preethikishore/Emi_Calculator"
+        link: "https://preethikishore.github.io/myportfolio/"
         tagline: "My Portfolio Website Project to showcase the work I have done as a Web and Android Developer. This was developed using HTML, CSS, Bootstrap & JavaScript."
 
       - title: Clock Counter
